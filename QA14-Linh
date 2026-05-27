@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CN48E3FM1C"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];    
+    function gtag() {
+        dataLayer.push(arguments);
+    }    
+    gtag('js', new Date());    
+    gtag('config', 'G-CN48E3FM1C');
+</script>
+
+<body style="font-family: sans-serif">
+    <h1>Inti: Linh QA 14 </h1>
+    <ul>
+        <li>Environment: QA14</li>
+        <li>Account: Linh QA 14</li>
+        <li>Company: 422 Second Company</li>    </ul>    <button><a href="index.html">Back</a></button>
+    <h4>Website pool - 1 number</h4>
+    <p>(404)-548-8988</p>
+    <p>Swap target: 4 0 4 5 4 8 8 9 8 8</p>
+    <h4>Custom Forms</h4>
+    <h4>CallRail Custom Form</h4>
+    <div id="cr-form-FOR019d719cd42a75efaeb8f96fe5cc924c"></div>
+    <h4>Typeform External Form</h4>
+    <div data-tf-live="01KFFB7TKCY5TFGC4ZCE81JRYK" data-tf-on-submit="submit"></div>
+    <script src="//embed.typeform.com/next/embed.js"></script>
+    <script>
+        function submit({
+            formId,
+            responseId
+        }) {
+            CallTrkSwap.typeformSubmit({
+                formId,
+                responseId
+            });
+        }
+    </script>
+        <!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/4700188.js"></script>
+<!-- End of HubSpot Embed Code -->
+    <script type="text/javascript" src="//swappy.blackwood-mountain.eks.qa-callrail.com/companies/193146451/1816a77f1b71b7aa68dc/12/swap.js"></script> 
+
+</body>
+
+</html>
